@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from Brooklyn, New York<br><br>- 🔭 I will be working for Travelers this upcoming summer<br>- 📚 I'm currently learning Deeplearning<br>- ⚡ In my free time I like to play basketball and workout</p>
+<p align="left">I'm from Brooklyn, New York<br><br>- 🔭 I will be working for Travelers this upcoming summer<br>- 📚 I'm currently learning DeepLearning<br>- ⚡ In my free time I like to play basketball and workout</p>
 
 ###
 
